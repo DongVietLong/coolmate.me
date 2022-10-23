@@ -1,0 +1,184 @@
+/* Respondsive */
+
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+  .navbar {
+    padding: 0 30px;
+  }
+  .menu-item li {
+    padding: 0 15px;
+  }
+  .click {
+    width: 95% !important;
+  }
+  .background {
+    display: flex !important;
+  }
+  .illustration-photo {
+    display: none !important;
+  }
+  .infor {
+    width: 90% !important;
+  }
+}
+@media screen and (max-width: 999px) {
+  .menu {
+    display: none !important;
+  }
+  .menu-button-container {
+    display: block !important;
+  }
+  .open-close {
+    display: block !important;
+    font-size: 18px !important;
+    cursor: pointer !important;
+  }
+  .click {
+    flex-direction: column !important;
+    justify-content: center !important;
+    width: 95% !important;
+    bottom: 10px !important;
+  }
+  .click button {
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    padding: 10px 0 !important;
+  }
+  .banner {
+    height: 500px !important;
+  }
+  .category-name {
+    width: 90% !important;
+  }
+  .illustration-photo {
+    display: none !important;
+  }
+  .infor {
+    width: 90% !important;
+  }
+  .background,
+  .background2 {
+    display: flex !important;
+  }
+  .footer-category {
+    flex-wrap: unset !important;
+    width: 100% !important;
+    height: 100% !important;
+  }
+  .footer-container {
+    flex-direction: column !important;
+    height: auto !important;
+    display: flex !important;
+  }
+  .contact-infor {
+    padding: 0 !important;
+  }
+  .corporators {
+    display: none !important;
+  }
+  .caption-holder {
+    height: 40px !important;
+  }
+  .caption-holder > marquee {
+    font-size: 17px !important;
+  }
+  .register {
+    font-size: 18px !important;
+  }
+  .illustration-photo2 {
+    display: none !important;
+  }
+  .cart-container {
+    flex-direction: column-reverse !important;
+    display: flex !important;
+  }
+}
+@media screen and (max-width: 850px) {
+  .choices-holder {
+    flex-wrap: wrap !important;
+  }
+  .basics p {
+    font-size: 40px !important;
+  }
+  .choice-item {
+    width: 40% !important;
+    padding-left: 20 !important;
+    padding-right: 20 !important;
+  }
+  .about-coolmate-footer {
+    flex-direction: column !important;
+  }
+  .coolmate-story,
+  .coolmate-service {
+    margin-bottom: 20px !important;
+    width: 90%;
+    margin: 0 auto;
+  }
+  .footer-web {
+    margin-top: 0 !important;
+  }
+  .detail-product-container {
+    flex-direction: column !important;
+    display: flex !important;
+    top: 0 !important;
+    margin-top: 100px !important;
+  }
+  .right-side-detail-product {
+    height: auto !important;
+    padding-bottom: 0 !important;
+  }
+  .left-side-detail-product {
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+  .jeans,
+  .jeans-item,
+  .product-holder,
+  .template,
+  .template-item {
+    width: 48% !important;
+  }
+  .jeans-holder,
+  .template-holder {
+    margin-bottom: 40px !important;
+  }
+  .detail-product-holder {
+    width: 100% !important;
+  }
+  .registerForm {
+    width: 70% !important;
+  }
+}
+
+@media screen and (max-width: 699px) {
+  .footer-web {
+    display: none;
+  }
+}
+@media screen and (max-width: 500px) {
+  .infor {
+    width: 95% !important;
+    padding: 0 10px !important;
+  }
+  .infor h1 {
+    font-size: 35px;
+  }
+  .background,
+  .background2 {
+    justify-content: center;
+  }
+  .background2 {
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .basics-holder {
+    flex-wrap: wrap;
+    height: 100%;
+  }
+  .basic-item {
+    width: 30%;
+  }
+  .type {
+    display: none;
+  }
+}

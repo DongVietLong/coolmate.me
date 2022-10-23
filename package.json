@@ -1,0 +1,46 @@
+{
+  "name": "mycoolmate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev1": "nodemon main.js"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@reduxjs/toolkit": "^1.8.6",
+    "babel-plugin-macros": "^3.1.0",
+    "isomorphic-fetch": "^3.0.0",
+    "json-server": "^0.17.0",
+    "react": "^18.2.0",
+    "react-alice-carousel": "^2.6.4",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.0",
+    "react-slick": "^0.29.0",
+    "redux-persist": "^6.0.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.1",
+    "concurrently": "^7.4.0",
+    "nodemon": "^2.0.20",
+    "vite": "^3.0.7"
+  },
+  "resolutions": {
+    "react-error-overlay": "6.0.9"
+  },
+  "main": "babel-plugin-macros.config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

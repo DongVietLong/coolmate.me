@@ -1,0 +1,91 @@
+.cart-container {
+  position: relative;
+  top: 75px;
+  display: grid;
+  grid-template-columns: 4fr 3fr;
+  column-gap: 25px;
+  margin-top: 30px;
+}
+.delivery {
+  width: 100%;
+  height: 40px;
+  justify-content: space-between;
+  box-sizing: content-box;
+  padding: 15px 0;
+}
+.email input,
+.address input,
+.note input {
+  width: 100%;
+  padding: 0 15px;
+  border-radius: 10px;
+  height: 100%;
+  border: 1px solid #e6e6e6;
+}
+.address-option div {
+  width: 32%;
+}
+.address-option div select {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #e6e6e6;
+  height: 100%;
+  padding: 0 15px;
+}
+.personal-infor {
+  justify-content: space-between;
+}
+.personal-infor input {
+  width: 48%;
+  padding: 0 15px;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+}
+.cart-pay-infor {
+  width: 100%;
+  padding-left: 20px;
+}
+.cart-pay-infor h1 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.cart-payment {
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  margin: 20px 0;
+  height: 50px;
+  padding: 0 0 0 15px;
+  cursor: pointer;
+}
+.cart-payment:hover {
+  border: 1px solid var(--fb);
+}
+.payment-method {
+  height: 100%;
+  align-items: center;
+  margin-left: 20px;
+}
+.logoItem-container {
+  width: 35px;
+}
+.logoItem-container img {
+  width: 100%;
+  object-fit: cover;
+}
+.paymentName-container {
+  margin-left: 20px;
+}
+.pay {
+  width: 100%;
+  height: 40px;
+  border-radius: 12px;
+  border: 1px solid #e6e6e6;
+  font-size: 15px;
+}
+.pay:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,88 @@
+.products {
+  margin-top: 90px;
+  flex-direction: column;
+}
+.basics {
+  width: 100%;
+  flex-direction: column;
+  padding-bottom: 40px;
+}
+.basics > p {
+  font-size: 96px;
+  text-align: center;
+  padding: 30px 0;
+  margin: 0 auto;
+}
+.basics-holder {
+  justify-content: center;
+  position: relative;
+  max-height: 417px;
+}
+.basic-item {
+  width: 18%;
+  max-height: 417px;
+  left: 0;
+}
+.basic-item > img {
+  object-fit: cover;
+  width: 100%;
+}
+.text {
+  text-align: center;
+}
+.text span {
+  color: var(--fb);
+}
+.products button {
+  width: 120px;
+  padding: 10px 0;
+  margin: 13px auto;
+  border-radius: 15px;
+  border: none;
+  background-color: var(--yellow);
+}
+.choices-holder {
+  width: 100%;
+  padding: 20px 0;
+  justify-content: center;
+}
+.choice-item {
+  width: 23%;
+  padding: 15px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.choice-item > img {
+  width: 100%;
+  border-radius: 15px;
+  object-fit: cover;
+}
+.zoom {
+  transform: scale(1.1);
+  object-fit: cover;
+  width: 100%;
+  border-radius: 15px;
+}
+.normal {
+  border-radius: 15px;
+  width: 100%;
+  object-fit: cover;
+}
+.goto {
+  width: 80%;
+  text-align: center;
+  background-color: #fff;
+  position: absolute;
+  border-radius: 15px;
+  top: 50%;
+  padding: 10px 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: black;
+}
+.choice-item > div:hover {
+  cursor: pointer;
+}
+

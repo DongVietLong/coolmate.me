@@ -1,0 +1,37 @@
+{
+  "cart": [
+    {
+      "id": 0,
+      "logo": "https://www.coolmate.me/images/logo-zalopay.svg",
+      "name": "Ví điện tử ZaloPay"
+    },
+    {
+      "id": 1,
+      "logo": "https://www.coolmate.me/images/COD.svg",
+      "name": "COD",
+      "sub": "Thanh toán khi nhận hàng"
+    },
+    {
+      "id": 2,
+      "logo": "https://www.coolmate.me/images/momo-icon.png",
+      "name": "Thanh Toán MoMo"
+    },
+    {
+      "id": 3,
+      "logo": "https://mcdn.coolmate.me/image/September2021/195dbf69c0ac36f26fbd_(1).png",
+      "name": "Ví ShopeePay",
+      "sub": "Giảm thêm 50k cho khách hàng lần đầu mở ví và thanh toán bằng ShopeePay"
+    },
+    {
+      "id": 4,
+      "logo": "https://www.coolmate.me/images/vnpay.png",
+      "name": "Thẻ ATM / Internet Banking",
+      "sub": "Thẻ tín dụng (Credit card) / Thẻ ghi nợ (Debit card)/ VNPay QR"
+    },
+    {
+      "id": 5,
+      "logo": "https://mcdn.coolmate.me/uploads/May2022/9pay.svg",
+      "name": "Ví điện tử 9Pay"
+    }
+  ]
+}

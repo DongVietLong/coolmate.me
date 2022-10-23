@@ -1,0 +1,42 @@
+.home-caption {
+  flex-direction: column;
+}
+.caption-holder {
+  width: 95%;
+  background-color: var(--black);
+  height: 70px;
+  border-radius: 24px;
+  position: relative;
+}
+.register {
+  position: absolute;
+  width: 200px;
+  height: 100%;
+  background-color: var(--fb);
+  right: 0;
+  top: 0;
+  border-radius: 24px;
+  justify-content: center;
+  align-items: center;
+  color: var(--white);
+  font-size: 26px;
+  font-weight: 400;
+}
+.caption-holder > marquee {
+  position: absolute;
+  color: var(--white);
+  font-size: 24px;
+  width: calc(100% -200px);
+  direction: left;
+  height: 100%;
+  top: 27%;
+}
+.about-coolmate-footer {
+  width: 95%;
+  display: flex;
+  padding-top: 30px;
+}
+.about-coolmate-footer img {
+  width: 100%;
+  padding: 0 10px;
+}

@@ -1,0 +1,44 @@
+.video-banner {
+  position: relative;
+  width: 100vw;
+  height: 650px;
+  overflow: hidden;
+  top: 47px;
+}
+.video-container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.video-cover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background-color: var(--black);
+  opacity: 0.3;
+}
+.content {
+  width: 400px;
+  text-align: center;
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  left: 50%;
+    transform: translate(-50%, -50%);
+}
+.content p:first-child {
+  font-size: 20px;
+  color: var(--white);
+  padding-bottom: 10px;
+}
+.content p:last-child {
+  font-size: 16px;
+  color: var(--white);
+}
+.content > h1 {
+  padding-bottom: 10px;
+  font-size: 60px;
+  color: var(--white);
+}

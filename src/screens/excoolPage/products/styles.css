@@ -1,0 +1,23 @@
+.product-container-holder {
+  position: relative;
+  top: 47px;
+}
+.product-container {
+  width: 95%;
+  height: auto;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+.product-holder {
+  width: 25%;
+}
+.product-container-holder > h1 {
+  font-size: 30px;
+  padding: 30px;
+  text-align: center;
+}
+.item-holder {
+    padding: 20px 10px;
+}

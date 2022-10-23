@@ -1,0 +1,139 @@
+{
+  "cleanDenim": [
+    {
+      "id": 0,
+      "name": "Quần Jeans Clean Denim dáng Slimfit - Xanh nhạt",
+      "rate": "4.8",
+      "rateNumber": "60",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/32-0.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/1DSC06643-copy-2.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 1,
+      "name": "Quần Jeans Clean Denim dáng Slimfit S3 - Xanh nhạt",
+      "rate": "4.9",
+      "rateNumber": "4",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/August2022/xanh_nhat_s3_2.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/August2022/xanh_nhat_s3_1.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 2,
+      "name": "Quần Jeans Clean Denim dáng Slimfit S2 - Xanh đậm",
+      "rate": "5",
+      "rateNumber": "6",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/August2022/Jeans_moi_dam_2.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/August2022/Jeans_moi_dam_1.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 3,
+      "name": "Quần Jeans Clean Denim dáng Slimfit - Xanh garment",
+      "rate": "4.8",
+      "rateNumber": "60",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/33-0.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/1DSC06626-copy.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 4,
+      "name": "Quần Jeans Clean Denim dáng Slimfit S3 - Xanh đậm",
+      "rate": "4.9",
+      "rateNumber": "4",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/July2022/xanh-DAM_2.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/July2022/xanhdammm_27.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 5,
+      "name": "Quần Jeans Clean Denim dáng Slimfit S2 - Xanh nhạt",
+      "rate": "5",
+      "rateNumber": "6",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/August2022/Jeans_moi_nhat_4.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/August2022/Jeans_moi_nhat_2.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 6,
+      "name": "Quần Jeans Clean Denim dáng Slimfit - Xanh đậm",
+      "rate": "4.8",
+      "rateNumber": "60",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/31-0.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/April2022/1DSC06684-copy.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 7,
+      "name": "Quần Jeans Clean Denim dáng Slimfit S2 - Xanh sáng",
+      "rate": "5",
+      "rateNumber": "6",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/July2022/xanh-sang_1.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/July2022/xanhsanggg_74.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    },
+    {
+      "id": 8,
+      "name": "Quần Jeans Clean Denim dáng Slimfit S2 - Xanh garment",
+      "rate": "5",
+      "rateNumber": "6",
+      "type": "Sale",
+      "originalPrice": "599.000đ",
+      "src": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/July2022/gament_2.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100/uploads/July2022/garmetnnt_39.jpg"
+      ],
+      "price": "499.000đ",
+      "discount": "-17%",
+      "size": [29, 30, 31, 32, 33]
+    }
+  ]
+}
